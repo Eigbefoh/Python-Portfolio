@@ -39,12 +39,3 @@ Curated by **Victor Eigbefoh**, a finance-curious data analyst leveraging Python
 This repo evolves alongside my learning and career journey — each notebook is a hands-on case study designed to build technical depth and commercial intuition.
 
 ---
-
-## 🔧 How to Use
-
-Clone the repo and open any notebook in Jupyter:
-
-```bash
-git clone https://github.com/Eigbefoh/Python-Portfolio.git
-cd Python-Portfolio
-jupyter notebook
