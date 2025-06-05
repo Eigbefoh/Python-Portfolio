@@ -1,0 +1,24 @@
+# 🛍️ Retail Sales Analysis
+
+This notebook-driven case study explores a fictional clothing retailer's transactional dataset to uncover insights about product sales, store performance, and shipping behavior.
+
+## 📊 Key Objectives
+
+- Analyze transactional volume by store and product category
+- Track revenue trends over time
+- Assess the impact of shipping methods on delivery outcomes
+- Recommend strategies to optimize product mix and logistics
+
+## 📁 Files Included
+
+- `C2 - Case Study - Python Fundamentals - Complete.ipynb` – the main analysis notebook
+- `Products.csv`, `Stores.csv`, `Transactions.csv`, `Shipping.csv` – supporting datasets
+
+## 🧠 Skills Demonstrated
+
+- Data cleaning and transformation with pandas
+- Exploratory data analysis and visualizations
+- Business performance interpretation
+- Insight storytelling in notebook format
+
+---
