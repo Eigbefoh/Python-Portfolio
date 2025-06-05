@@ -1,0 +1,23 @@
+# 📈 Portfolio Optimization
+
+This notebook-driven case study explores portfolio construction through the lens of financial data science, using historical stock data to simulate and evaluate investment scenarios.
+
+## 📊 Key Objectives
+
+- Normalize and allocate capital across multiple assets
+- Simulate 10,000 portfolio weighting combinations
+- Evaluate performance using cumulative return, volatility, and Sharpe Ratio
+- Identify the optimal risk-adjusted portfolio
+
+## 📁 Files Included
+
+- `Portfolio Optimization.ipynb` – the main analysis notebook
+- `AAPL.csv`, `AMD.csv`, `MSFT.csv`, `ORCL.csv` – daily historical pricing data
+
+## 🧠 Skills Demonstrated
+
+- Financial data wrangling with pandas
+- Return, volatility, and Sharpe Ratio calculations
+- Monte Carlo simulation for portfolio weighting
+- Risk-return tradeoff visualization with matplotlib
+- Insight communication in Jupyter format
