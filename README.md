@@ -1,6 +1,4 @@
-# 🐍 Python Portfolio
-
-# 👋 Welcome to My Python Portfolio
+# 🐍 Welcome to My Python Portfolio
 
 A curated set of hands-on projects and case studies using Python for analytics, modeling, and automation — with a focus on finance and real-world impact.
 
