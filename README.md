@@ -1,34 +1,78 @@
-# 🐍 Welcome to My Python Portfolio
+# 👋 Hi, I’m Victor
 
-A curated set of hands-on projects and case studies using Python for analytics, modeling, and automation — with a focus on finance and real-world impact.
+**AI/ML Data Scientist** specialising in NLP, predictive modelling, and automated analytics – with growing exposure to **electronic fixed income trading** and enterprise-grade data workflows. 
 
----
-
-## 💼 Featured Projects
-
-**🔹 Retail Sales Analysis**  
-Explores sales trends, product performance, and customer behavior using transactional data.
-
-**🔹 Car Price Regression**  
-Builds a simple linear regression model to predict car prices from engine size. Sets the foundation for future multivariate regression work.
-
-**🔹 Portfolio Optimization**  
-Simulates 10,000+ portfolios to identify optimal risk-return tradeoffs using Sharpe Ratio maximization.
+I care about one thing: turning messy real-world data into models and tools that change decisions, not just slide decks.
 
 ---
 
-## 🛠️ Tools & Stack
+## 🎯 What I Work On
 
-- Python, Jupyter Notebooks  
-- pandas, NumPy, matplotlib, statsmodels  
-- Git & GitHub
+- **Predictive modelling & retention / churn**
+  - Supervised models (XGBoost, Neural Networks, logistic regression) for student and client retention, early-warning risk flags, and intervention design.
+    
+- **Time-series, anomaly detection & operations**
+  - Isolation Forest, One-Class SVM, and rule-based QC to detect failures in sensor data and live systems, aligned to operational-risk thresholds.
+    
+- **NLP & applied AI**
+  - LLMs, RAG, FinBERT, topic modelling and summarisation for finance and analytics use cases (research, monitoring, internal tooling).
+    
+- **Markets & trading**
+  - Exposure to Nomura’s **eFI Quant Rates** desk: probability-of-fill models, ensemble architectures (logistic regression + trees/NN), and “risk radar” concepts for intraday risk buckets. 
 
 ---
 
-## 📍 About Me
+## 🧠 Core Stack
 
-I'm a data analyst applying Python to solve problems in finance and analytics. I combine curiosity with quantitative thinking to build tools that drive smarter decisions.
+**Languages & Data**
+- Python (pandas, NumPy, scikit-learn, XGBoost)
+- SQL
+- Jupyter / VS Code
+
+**ML & DL**
+- XGBoost, Gradient Boosting
+- Neural Networks (TensorFlow / PyTorch basics, Keras)
+- Clustering (K-Means, Hierarchical)
+- Anomaly detection (Isolation Forest, One-Class SVM)
+- Bayesian thinking for uncertainty & risk
+
+**AI & NLP**
+- LLM fine-tuning, LangChain / LangGraph
+- RAG pipelines, NER, topic modelling
+- HuggingFace Transformers, FinBERT, summarisation, agentic workflows
+
+**Cloud, BI & Dev**
+- AWS (S3, Athena)
+- Power BI (Microsoft Certified)
+- Docker, Git, GitHub
 
 ---
 
-> ⚡ Learn fast. Build sharp. Improve constantly.
+## 📂 Types of Projects You’ll See Here
+
+- **Student / customer retention models**  
+  End-to-end workflows: feature engineering, model comparison (baseline vs XGBoost vs NN), AUC/recall trade-offs, and tiered intervention strategies. ]
+  
+- **Anomaly detection in sensor and operational data**  
+  Reproducible notebooks that combine models + QC frameworks, aimed at reducing false positives and quantifying maintenance or risk savings.
+  
+- **Customer segmentation & clustering**  
+  EDA + clustering to define actionable segments, with a strong focus on interpretability and impact on downstream marketing or product decisions.
+  
+- **Trading & execution prototypes (WIP)**  
+  Notebooks exploring execution modelling, ensemble architectures for probability-of-fill, and risk dashboards inspired by work on an electronic rates desk.  
+
+Each repo aims to show the **full chain**: from business question → data prep → modelling → evaluation → recommendations.
+
+---
+
+## 🚀 Currently
+
+- Studying on the **University of Cambridge PACE Data Science & AI** programme (Level 7), sponsored by the Bank of England. 
+- Building a more opinionated portfolio around:
+  - retention modelling,
+  - anomaly detection,
+  - trading and execution analytics,
+  - and practical NLP for finance.
+
+If you want to talk about **applied ML in trading, risk, or operations**, feel free to reach out (victoreigbefoh@outlook.com) or open an issue on any repo.
